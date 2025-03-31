@@ -3,7 +3,7 @@
 int n = int.Parse(Console.ReadLine());
 
 Console.WriteLine(Factorial(n));
-int Factorial(int n)
+static int Factorial(int n)
 {
     if(n == 0)
     {

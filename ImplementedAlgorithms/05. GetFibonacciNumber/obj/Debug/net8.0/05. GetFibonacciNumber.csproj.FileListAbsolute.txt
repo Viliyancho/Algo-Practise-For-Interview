@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\bin\Debug\net8.0\05. GetFibonacciNumber.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\bin\Debug\net8.0\05. GetFibonacciNumber.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\bin\Debug\net8.0\05. GetFibonacciNumber.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\bin\Debug\net8.0\05. GetFibonacciNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\bin\Debug\net8.0\05. GetFibonacciNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\refint\05. GetFibonacciNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\05. GetFibonacciNumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\05. GetFibonacciNumber\obj\Debug\net8.0\ref\05. GetFibonacciNumber.dll

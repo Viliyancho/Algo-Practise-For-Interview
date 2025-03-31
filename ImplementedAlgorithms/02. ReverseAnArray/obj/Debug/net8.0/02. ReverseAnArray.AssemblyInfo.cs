@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. ReverseAnArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fa35681459ef8ab3496cc0f95bbc3b961f960a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d27858e2144291e069067e92164472b0f38ff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. ReverseAnArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. ReverseAnArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
