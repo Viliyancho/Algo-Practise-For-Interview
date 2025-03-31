@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\bin\Debug\net8.0\02. ReverseAnArray.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\bin\Debug\net8.0\02. ReverseAnArray.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\bin\Debug\net8.0\02. ReverseAnArray.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\bin\Debug\net8.0\02. ReverseAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\bin\Debug\net8.0\02. ReverseAnArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\refint\02. ReverseAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\02. ReverseAnArray.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\02. ReverseAnArray\obj\Debug\net8.0\ref\02. ReverseAnArray.dll

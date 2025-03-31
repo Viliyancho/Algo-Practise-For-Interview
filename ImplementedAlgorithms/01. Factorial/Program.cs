@@ -1,4 +1,6 @@
-﻿int n = int.Parse(Console.ReadLine());
+﻿//Given a number n, calculate its factorial (n!).
+
+int n = int.Parse(Console.ReadLine());
 
 Console.WriteLine(Factorial(n));
 int Factorial(int n)
