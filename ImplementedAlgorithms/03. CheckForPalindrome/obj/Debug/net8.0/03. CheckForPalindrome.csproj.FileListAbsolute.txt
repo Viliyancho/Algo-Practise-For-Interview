@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\bin\Debug\net8.0\03. CheckForPalindrome.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\bin\Debug\net8.0\03. CheckForPalindrome.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\bin\Debug\net8.0\03. CheckForPalindrome.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\bin\Debug\net8.0\03. CheckForPalindrome.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\bin\Debug\net8.0\03. CheckForPalindrome.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\refint\03. CheckForPalindrome.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\03. CheckForPalindrome.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\03. CheckForPalindrome\obj\Debug\net8.0\ref\03. CheckForPalindrome.dll

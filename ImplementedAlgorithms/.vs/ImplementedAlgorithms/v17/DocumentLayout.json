@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D48CC64-7270-40BB-A6A0-1349E7329DC1}|03. CheckForPalindrome\\03. CheckForPalindrome.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\03. checkforpalindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D48CC64-7270-40BB-A6A0-1349E7329DC1}|03. CheckForPalindrome\\03. CheckForPalindrome.csproj|solutionrelative:03. checkforpalindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{232153B5-9B97-4502-805D-D5EE1FE20B8D}|02. ReverseAnArray\\02. ReverseAnArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\02. reverseanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{232153B5-9B97-4502-805D-D5EE1FE20B8D}|02. ReverseAnArray\\02. ReverseAnArray.csproj|solutionrelative:02. reverseanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +28,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\03. CheckForPalindrome\\Program.cs",
+              "RelativeDocumentMoniker": "03. CheckForPalindrome\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\03. CheckForPalindrome\\Program.cs",
+              "RelativeToolTip": "03. CheckForPalindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:08:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\02. ReverseAnArray\\Program.cs",
               "RelativeDocumentMoniker": "02. ReverseAnArray\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\02. ReverseAnArray\\Program.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\01. Factorial\\Program.cs",
               "RelativeDocumentMoniker": "01. Factorial\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "01. Factorial\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T21:50:46.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T21:50:46.12Z"
             }
           ]
         }

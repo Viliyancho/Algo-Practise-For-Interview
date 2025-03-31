@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Factorial", "01. Factorial\01. Factorial.csproj", "{FBED9E93-AD90-4994-B958-1A1D35BF2CFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ReverseAnArray", "02. ReverseAnArray\02. ReverseAnArray.csproj", "{232153B5-9B97-4502-805D-D5EE1FE20B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. ReverseAnArray", "02. ReverseAnArray\02. ReverseAnArray.csproj", "{232153B5-9B97-4502-805D-D5EE1FE20B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CheckForPalindrome", "03. CheckForPalindrome\03. CheckForPalindrome.csproj", "{4D48CC64-7270-40BB-A6A0-1349E7329DC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{232153B5-9B97-4502-805D-D5EE1FE20B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{232153B5-9B97-4502-805D-D5EE1FE20B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{232153B5-9B97-4502-805D-D5EE1FE20B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D48CC64-7270-40BB-A6A0-1349E7329DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D48CC64-7270-40BB-A6A0-1349E7329DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D48CC64-7270-40BB-A6A0-1349E7329DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D48CC64-7270-40BB-A6A0-1349E7329DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
