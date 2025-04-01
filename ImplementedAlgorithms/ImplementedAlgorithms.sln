@@ -9,9 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. ReverseAnArray", "02. R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. CheckForPalindrome", "03. CheckForPalindrome\03. CheckForPalindrome.csproj", "{4D48CC64-7270-40BB-A6A0-1349E7329DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. FibonacciSequence", "04. FibonacciSequence\04. FibonacciSequence.csproj", "{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. FibonacciSequence", "04. FibonacciSequence\04. FibonacciSequence.csproj", "{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. GetFibonacciNumber", "05. GetFibonacciNumber\05. GetFibonacciNumber.csproj", "{30E317FF-A551-46E0-92E9-5217F1D28D23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. GetFibonacciNumber", "05. GetFibonacciNumber\05. GetFibonacciNumber.csproj", "{30E317FF-A551-46E0-92E9-5217F1D28D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SumOfTwo", "06. SumOfTwo\06. SumOfTwo.csproj", "{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. MegeTwoSortedArrays", "07. MegeTwoSortedArrays\07. MegeTwoSortedArrays.csproj", "{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FindMaxAndMin", "08. FindMaxAndMin\08. FindMaxAndMin.csproj", "{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. PrimeNumber", "09. PrimeNumber\09. PrimeNumber.csproj", "{CB60F32A-91DD-4368-BF30-8A4D07F68115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{30E317FF-A551-46E0-92E9-5217F1D28D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E317FF-A551-46E0-92E9-5217F1D28D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E317FF-A551-46E0-92E9-5217F1D28D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB60F32A-91DD-4368-BF30-8A4D07F68115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB60F32A-91DD-4368-BF30-8A4D07F68115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB60F32A-91DD-4368-BF30-8A4D07F68115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB60F32A-91DD-4368-BF30-8A4D07F68115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

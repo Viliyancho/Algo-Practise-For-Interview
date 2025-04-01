@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\bin\Debug\net8.0\09. PrimeNumber.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\bin\Debug\net8.0\09. PrimeNumber.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\bin\Debug\net8.0\09. PrimeNumber.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\bin\Debug\net8.0\09. PrimeNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\bin\Debug\net8.0\09. PrimeNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\refint\09. PrimeNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\09. PrimeNumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\09. PrimeNumber\obj\Debug\net8.0\ref\09. PrimeNumber.dll

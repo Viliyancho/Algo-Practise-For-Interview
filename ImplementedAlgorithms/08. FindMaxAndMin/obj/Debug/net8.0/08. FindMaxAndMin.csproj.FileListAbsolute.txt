@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\bin\Debug\net8.0\08. FindMaxAndMin.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\bin\Debug\net8.0\08. FindMaxAndMin.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\bin\Debug\net8.0\08. FindMaxAndMin.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\bin\Debug\net8.0\08. FindMaxAndMin.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\bin\Debug\net8.0\08. FindMaxAndMin.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\refint\08. FindMaxAndMin.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\08. FindMaxAndMin.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\08. FindMaxAndMin\obj\Debug\net8.0\ref\08. FindMaxAndMin.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\bin\Debug\net8.0\06. SumOfTwo.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\bin\Debug\net8.0\06. SumOfTwo.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\bin\Debug\net8.0\06. SumOfTwo.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\bin\Debug\net8.0\06. SumOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\bin\Debug\net8.0\06. SumOfTwo.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\refint\06. SumOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\06. SumOfTwo.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\06. SumOfTwo\obj\Debug\net8.0\ref\06. SumOfTwo.dll
