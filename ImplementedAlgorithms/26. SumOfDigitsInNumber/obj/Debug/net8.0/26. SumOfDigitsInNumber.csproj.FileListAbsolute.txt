@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\bin\Debug\net8.0\26. SumOfDigitsInNumber.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\bin\Debug\net8.0\26. SumOfDigitsInNumber.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\bin\Debug\net8.0\26. SumOfDigitsInNumber.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\bin\Debug\net8.0\26. SumOfDigitsInNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\bin\Debug\net8.0\26. SumOfDigitsInNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\refint\26. SumOfDigitsInNumber.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\26. SumOfDigitsInNumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\26. SumOfDigitsInNumber\obj\Debug\net8.0\ref\26. SumOfDigitsInNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\bin\Debug\net8.0\28. LongestWordInSentence.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\bin\Debug\net8.0\28. LongestWordInSentence.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\bin\Debug\net8.0\28. LongestWordInSentence.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\bin\Debug\net8.0\28. LongestWordInSentence.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\bin\Debug\net8.0\28. LongestWordInSentence.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\refint\28. LongestWordInSentence.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\28. LongestWordInSentence.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\28. LongestWordInSentence\obj\Debug\net8.0\ref\28. LongestWordInSentence.dll

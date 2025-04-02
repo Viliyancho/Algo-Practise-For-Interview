@@ -1,0 +1,1 @@
+﻿// Given an integer, determine if it is a power of two.

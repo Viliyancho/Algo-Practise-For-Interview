@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\bin\Debug\net8.0\20. BalancedParentheses.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\bin\Debug\net8.0\20. BalancedParentheses.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\bin\Debug\net8.0\20. BalancedParentheses.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\bin\Debug\net8.0\20. BalancedParentheses.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\bin\Debug\net8.0\20. BalancedParentheses.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\refint\20. BalancedParentheses.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\20. BalancedParentheses.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\20. BalancedParentheses\obj\Debug\net8.0\ref\20. BalancedParentheses.dll

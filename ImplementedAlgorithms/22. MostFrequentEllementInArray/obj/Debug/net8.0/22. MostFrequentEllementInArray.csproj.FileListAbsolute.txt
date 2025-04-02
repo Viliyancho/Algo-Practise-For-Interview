@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\bin\Debug\net8.0\22. MostFrequentEllementInArray.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\bin\Debug\net8.0\22. MostFrequentEllementInArray.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\bin\Debug\net8.0\22. MostFrequentEllementInArray.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\bin\Debug\net8.0\22. MostFrequentEllementInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\bin\Debug\net8.0\22. MostFrequentEllementInArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\refint\22. MostFrequentEllementInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\22. MostFrequentEllementInArray.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\22. MostFrequentEllementInArray\obj\Debug\net8.0\ref\22. MostFrequentEllementInArray.dll

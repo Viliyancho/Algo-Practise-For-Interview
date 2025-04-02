@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F01BBBE5-CC85-4EDA-BFC5-E29B9A46F414}|28. LongestWordInSentence\\28. LongestWordInSentence.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\28. longestwordinsentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BBBE5-CC85-4EDA-BFC5-E29B9A46F414}|28. LongestWordInSentence\\28. LongestWordInSentence.csproj|solutionrelative:28. longestwordinsentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9302C6-FAC3-4E3B-BFAC-BC99D8BC68B6}|27. IntersectionOfTwoArrays\\27. IntersectionOfTwoArrays.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\27. intersectionoftwoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9302C6-FAC3-4E3B-BFAC-BC99D8BC68B6}|27. IntersectionOfTwoArrays\\27. IntersectionOfTwoArrays.csproj|solutionrelative:27. intersectionoftwoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB7348A-6B3C-4050-BE53-686485F8DB9C}|26. SumOfDigitsInNumber\\26. SumOfDigitsInNumber.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\26. sumofdigitsinnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB7348A-6B3C-4050-BE53-686485F8DB9C}|26. SumOfDigitsInNumber\\26. SumOfDigitsInNumber.csproj|solutionrelative:26. sumofdigitsinnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C133F4-2BC2-4BA4-9B95-48F6AB288834}|11. BubbleSort\\11. BubbleSort.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\11. bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C133F4-2BC2-4BA4-9B95-48F6AB288834}|11. BubbleSort\\11. BubbleSort.csproj|solutionrelative:11. bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EC4A3E-3001-4305-91F8-311FB59A7697}|12. SelectionSort\\12. SelectionSort.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\12. selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EC4A3E-3001-4305-91F8-311FB59A7697}|12. SelectionSort\\12. SelectionSort.csproj|solutionrelative:12. selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C992C3B-3CF8-4052-ACAC-70CDD807F277}|25. RemoveDuplicatesFromArray\\25. RemoveDuplicatesFromArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\25. removeduplicatesfromarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C992C3B-3CF8-4052-ACAC-70CDD807F277}|25. RemoveDuplicatesFromArray\\25. RemoveDuplicatesFromArray.csproj|solutionrelative:25. removeduplicatesfromarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005A7D1F-7CA1-4C87-AD3D-E3A427122480}|24. SecondLargestNumber\\24. SecondLargestNumber.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\24. secondlargestnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005A7D1F-7CA1-4C87-AD3D-E3A427122480}|24. SecondLargestNumber\\24. SecondLargestNumber.csproj|solutionrelative:24. secondlargestnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B272EF1D-E4DA-4181-85F0-922BCFEF3B44}|23. CountVowels\\23. CountVowels.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\23. countvowels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B272EF1D-E4DA-4181-85F0-922BCFEF3B44}|23. CountVowels\\23. CountVowels.csproj|solutionrelative:23. countvowels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA3A769-D6B7-4F6E-8DD5-E4BD9EC0F27C}|19. FindMissingNumberInArray\\19. FindMissingNumberInArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\19. findmissingnumberinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA3A769-D6B7-4F6E-8DD5-E4BD9EC0F27C}|19. FindMissingNumberInArray\\19. FindMissingNumberInArray.csproj|solutionrelative:19. findmissingnumberinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B08A41A-434E-4630-9216-860A026A7170}|17. AnagramCheck\\17. AnagramCheck.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\17. anagramcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B08A41A-434E-4630-9216-860A026A7170}|17. AnagramCheck\\17. AnagramCheck.csproj|solutionrelative:17. anagramcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}|07. MegeTwoSortedArrays\\07. MegeTwoSortedArrays.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\07. megetwosortedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}|07. MegeTwoSortedArrays\\07. MegeTwoSortedArrays.csproj|solutionrelative:07. megetwosortedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}|04. FibonacciSequence\\04. FibonacciSequence.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\04. fibonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}|04. FibonacciSequence\\04. FibonacciSequence.csproj|solutionrelative:04. fibonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED9E93-AD90-4994-B958-1A1D35BF2CFD}|01. Factorial\\01. Factorial.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\01. factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED9E93-AD90-4994-B958-1A1D35BF2CFD}|01. Factorial\\01. Factorial.csproj|solutionrelative:01. factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A4AED-EE81-448D-8EA1-0393FCCA971D}|22. MostFrequentEllementInArray\\22. MostFrequentEllementInArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\22. mostfrequentellementinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A4AED-EE81-448D-8EA1-0393FCCA971D}|22. MostFrequentEllementInArray\\22. MostFrequentEllementInArray.csproj|solutionrelative:22. mostfrequentellementinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744FF99E-30F2-4C9E-AFE5-3B5B0983C67D}|21. LongestCommonPrefix\\21. LongestCommonPrefix.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\21. longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744FF99E-30F2-4C9E-AFE5-3B5B0983C67D}|21. LongestCommonPrefix\\21. LongestCommonPrefix.csproj|solutionrelative:21. longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102513A2-BF3D-4514-B870-2EBD534D79EC}|20. BalancedParentheses\\20. BalancedParentheses.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\20. balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102513A2-BF3D-4514-B870-2EBD534D79EC}|20. BalancedParentheses\\20. BalancedParentheses.csproj|solutionrelative:20. balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED939FA-2F32-4E20-A31F-998D2B740A7A}|18. RotateAnArray\\18. RotateAnArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\18. rotateanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED939FA-2F32-4E20-A31F-998D2B740A7A}|18. RotateAnArray\\18. RotateAnArray.csproj|solutionrelative:18. rotateanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{232153B5-9B97-4502-805D-D5EE1FE20B8D}|02. ReverseAnArray\\02. ReverseAnArray.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\02. reverseanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +91,8 @@
       "RelativeMoniker": "D:0:0:{AA175516-4A7F-48D1-9898-FF89BBEC5630}|13. MergeSort\\13. MergeSort.csproj|solutionrelative:13. mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC4A3E-3001-4305-91F8-311FB59A7697}|12. SelectionSort\\12. SelectionSort.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\12. selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC4A3E-3001-4305-91F8-311FB59A7697}|12. SelectionSort\\12. SelectionSort.csproj|solutionrelative:12. selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99C133F4-2BC2-4BA4-9B95-48F6AB288834}|11. BubbleSort\\11. BubbleSort.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\11. bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C133F4-2BC2-4BA4-9B95-48F6AB288834}|11. BubbleSort\\11. BubbleSort.csproj|solutionrelative:11. bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23E9AFBD-72B4-41A5-B3BA-E75008D3119A}|10. BinarySearch\\10. BinarySearch.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\10. binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23E9AFBD-72B4-41A5-B3BA-E75008D3119A}|10. BinarySearch\\10. BinarySearch.csproj|solutionrelative:10. binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}|04. FibonacciSequence\\04. FibonacciSequence.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\04. fibonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2D03AA-6F48-4E20-9BC4-8A655DCE6BF0}|04. FibonacciSequence\\04. FibonacciSequence.csproj|solutionrelative:04. fibonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\010. BinarySearch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,20 +107,12 @@
       "RelativeMoniker": "D:0:0:{2CFBC067-F6E8-406F-A780-DCD8E6DBC04C}|08. FindMaxAndMin\\08. FindMaxAndMin.csproj|solutionrelative:08. findmaxandmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}|07. MegeTwoSortedArrays\\07. MegeTwoSortedArrays.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\07. megetwosortedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70DE8198-5778-4AFA-920F-D9FBEC4EA86D}|07. MegeTwoSortedArrays\\07. MegeTwoSortedArrays.csproj|solutionrelative:07. megetwosortedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}|06. SumOfTwo\\06. SumOfTwo.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\06. sumoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8362DF60-9B8D-4891-ACF3-F6C7E1ED2CF1}|06. SumOfTwo\\06. SumOfTwo.csproj|solutionrelative:06. sumoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E317FF-A551-46E0-92E9-5217F1D28D23}|05. GetFibonacciNumber\\05. GetFibonacciNumber.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\05. getfibonaccinumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E317FF-A551-46E0-92E9-5217F1D28D23}|05. GetFibonacciNumber\\05. GetFibonacciNumber.csproj|solutionrelative:05. getfibonaccinumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBED9E93-AD90-4994-B958-1A1D35BF2CFD}|01. Factorial\\01. Factorial.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\01. factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBED9E93-AD90-4994-B958-1A1D35BF2CFD}|01. Factorial\\01. Factorial.csproj|solutionrelative:01. factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D48CC64-7270-40BB-A6A0-1349E7329DC1}|03. CheckForPalindrome\\03. CheckForPalindrome.csproj|c:\\users\\admin\\documents\\tu - sofia\\algo-practise-for-interview\\implementedalgorithms\\03. checkforpalindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,18 +132,226 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\28. LongestWordInSentence\\Program.cs",
+              "RelativeDocumentMoniker": "28. LongestWordInSentence\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\28. LongestWordInSentence\\Program.cs*",
+              "RelativeToolTip": "28. LongestWordInSentence\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:06:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\27. IntersectionOfTwoArrays\\Program.cs",
+              "RelativeDocumentMoniker": "27. IntersectionOfTwoArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\27. IntersectionOfTwoArrays\\Program.cs",
+              "RelativeToolTip": "27. IntersectionOfTwoArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:50:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\26. SumOfDigitsInNumber\\Program.cs",
+              "RelativeDocumentMoniker": "26. SumOfDigitsInNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\26. SumOfDigitsInNumber\\Program.cs",
+              "RelativeToolTip": "26. SumOfDigitsInNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:44:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\25. RemoveDuplicatesFromArray\\Program.cs",
+              "RelativeDocumentMoniker": "25. RemoveDuplicatesFromArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\25. RemoveDuplicatesFromArray\\Program.cs",
+              "RelativeToolTip": "25. RemoveDuplicatesFromArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:40:28.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\17. AnagramCheck\\Program.cs",
               "RelativeDocumentMoniker": "17. AnagramCheck\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\17. AnagramCheck\\Program.cs",
               "RelativeToolTip": "17. AnagramCheck\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T20:11:38.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\01. Factorial\\Program.cs",
+              "RelativeDocumentMoniker": "01. Factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\01. Factorial\\Program.cs",
+              "RelativeToolTip": "01. Factorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:50:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\04. FibonacciSequence\\Program.cs",
+              "RelativeDocumentMoniker": "04. FibonacciSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\04. FibonacciSequence\\Program.cs",
+              "RelativeToolTip": "04. FibonacciSequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:13:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\12. SelectionSort\\Program.cs",
+              "RelativeDocumentMoniker": "12. SelectionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\12. SelectionSort\\Program.cs",
+              "RelativeToolTip": "12. SelectionSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:47:02.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\11. BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "11. BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\11. BubbleSort\\Program.cs",
+              "RelativeToolTip": "11. BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:36:19.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\23. CountVowels\\Program.cs",
+              "RelativeDocumentMoniker": "23. CountVowels\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\23. CountVowels\\Program.cs",
+              "RelativeToolTip": "23. CountVowels\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:00:37.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\24. SecondLargestNumber\\Program.cs",
+              "RelativeDocumentMoniker": "24. SecondLargestNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\24. SecondLargestNumber\\Program.cs",
+              "RelativeToolTip": "24. SecondLargestNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:31:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\07. MegeTwoSortedArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07. MegeTwoSortedArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\07. MegeTwoSortedArrays\\Program.cs",
+              "RelativeToolTip": "07. MegeTwoSortedArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:31:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\19. FindMissingNumberInArray\\Program.cs",
+              "RelativeDocumentMoniker": "19. FindMissingNumberInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\19. FindMissingNumberInArray\\Program.cs",
+              "RelativeToolTip": "19. FindMissingNumberInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:35:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\22. MostFrequentEllementInArray\\Program.cs",
+              "RelativeDocumentMoniker": "22. MostFrequentEllementInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\22. MostFrequentEllementInArray\\Program.cs",
+              "RelativeToolTip": "22. MostFrequentEllementInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:50:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\18. RotateAnArray\\Program.cs",
+              "RelativeDocumentMoniker": "18. RotateAnArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\18. RotateAnArray\\Program.cs",
+              "RelativeToolTip": "18. RotateAnArray\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:18:57.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\20. BalancedParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "20. BalancedParentheses\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\20. BalancedParentheses\\Program.cs",
+              "RelativeToolTip": "20. BalancedParentheses\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:44:43.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\21. LongestCommonPrefix\\Program.cs",
+              "RelativeDocumentMoniker": "21. LongestCommonPrefix\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\21. LongestCommonPrefix\\Program.cs",
+              "RelativeToolTip": "21. LongestCommonPrefix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:32:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\16. DuplicatesInArray\\Program.cs",
               "RelativeDocumentMoniker": "16. DuplicatesInArray\\Program.cs",
@@ -107,12 +359,11 @@
               "RelativeToolTip": "16. DuplicatesInArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T20:07:20.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T20:07:20.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\14. QuickSort\\Program.cs",
               "RelativeDocumentMoniker": "14. QuickSort\\Program.cs",
@@ -120,12 +371,11 @@
               "RelativeToolTip": "14. QuickSort\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:55:13.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T19:55:13.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\13. MergeSort\\Program.cs",
               "RelativeDocumentMoniker": "13. MergeSort\\Program.cs",
@@ -133,38 +383,11 @@
               "RelativeToolTip": "13. MergeSort\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:54:47.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T19:54:47.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\12. SelectionSort\\Program.cs",
-              "RelativeDocumentMoniker": "12. SelectionSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\12. SelectionSort\\Program.cs",
-              "RelativeToolTip": "12. SelectionSort\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:47:02.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\11. BubbleSort\\Program.cs",
-              "RelativeDocumentMoniker": "11. BubbleSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\11. BubbleSort\\Program.cs",
-              "RelativeToolTip": "11. BubbleSort\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:36:19.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\02. ReverseAnArray\\Program.cs",
               "RelativeDocumentMoniker": "02. ReverseAnArray\\Program.cs",
@@ -172,12 +395,11 @@
               "RelativeToolTip": "02. ReverseAnArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T21:59:38.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T21:59:38.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\15. FirstNonRepeatingChar\\Program.cs",
               "RelativeDocumentMoniker": "15. FirstNonRepeatingChar\\Program.cs",
@@ -185,12 +407,11 @@
               "RelativeToolTip": "15. FirstNonRepeatingChar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:57:37.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T19:57:37.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\10. BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "10. BinarySearch\\Program.cs",
@@ -198,12 +419,11 @@
               "RelativeToolTip": "10. BinarySearch\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:22:01.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T19:22:01.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\010. BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "010. BinarySearch\\Program.cs",
@@ -214,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\09. PrimeNumber\\Program.cs",
               "RelativeDocumentMoniker": "09. PrimeNumber\\Program.cs",
@@ -226,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\08. FindMaxAndMin\\Program.cs",
               "RelativeDocumentMoniker": "08. FindMaxAndMin\\Program.cs",
@@ -238,19 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\07. MegeTwoSortedArrays\\Program.cs",
-              "RelativeDocumentMoniker": "07. MegeTwoSortedArrays\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\07. MegeTwoSortedArrays\\Program.cs",
-              "RelativeToolTip": "07. MegeTwoSortedArrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T05:31:28.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\06. SumOfTwo\\Program.cs",
               "RelativeDocumentMoniker": "06. SumOfTwo\\Program.cs",
@@ -262,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\05. GetFibonacciNumber\\Program.cs",
               "RelativeDocumentMoniker": "05. GetFibonacciNumber\\Program.cs",
@@ -274,20 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\04. FibonacciSequence\\Program.cs",
-              "RelativeDocumentMoniker": "04. FibonacciSequence\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\04. FibonacciSequence\\Program.cs",
-              "RelativeToolTip": "04. FibonacciSequence\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T22:13:01.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\03. CheckForPalindrome\\Program.cs",
               "RelativeDocumentMoniker": "03. CheckForPalindrome\\Program.cs",
@@ -296,18 +491,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T22:08:16.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\01. Factorial\\Program.cs",
-              "RelativeDocumentMoniker": "01. Factorial\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\TU - SOFIA\\Algo-Practise-For-Interview\\ImplementedAlgorithms\\01. Factorial\\Program.cs",
-              "RelativeToolTip": "01. Factorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T21:50:46.12Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\bin\Debug\net8.0\21. LongestCommonPrefix.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\bin\Debug\net8.0\21. LongestCommonPrefix.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\bin\Debug\net8.0\21. LongestCommonPrefix.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\bin\Debug\net8.0\21. LongestCommonPrefix.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\bin\Debug\net8.0\21. LongestCommonPrefix.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\refint\21. LongestCommonPrefix.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\21. LongestCommonPrefix.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\21. LongestCommonPrefix\obj\Debug\net8.0\ref\21. LongestCommonPrefix.dll

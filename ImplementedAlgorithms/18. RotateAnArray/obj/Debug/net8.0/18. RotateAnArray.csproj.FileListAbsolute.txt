@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\bin\Debug\net8.0\18. RotateAnArray.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\bin\Debug\net8.0\18. RotateAnArray.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\bin\Debug\net8.0\18. RotateAnArray.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\bin\Debug\net8.0\18. RotateAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\bin\Debug\net8.0\18. RotateAnArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\refint\18. RotateAnArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\18. RotateAnArray.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\18. RotateAnArray\obj\Debug\net8.0\ref\18. RotateAnArray.dll

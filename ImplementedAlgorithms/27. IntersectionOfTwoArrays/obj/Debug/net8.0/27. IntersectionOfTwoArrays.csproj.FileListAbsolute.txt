@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\bin\Debug\net8.0\27. IntersectionOfTwoArrays.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\bin\Debug\net8.0\27. IntersectionOfTwoArrays.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\bin\Debug\net8.0\27. IntersectionOfTwoArrays.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\bin\Debug\net8.0\27. IntersectionOfTwoArrays.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\bin\Debug\net8.0\27. IntersectionOfTwoArrays.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\refint\27. IntersectionOfTwoArrays.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\27. IntersectionOfTwoArrays.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\27. IntersectionOfTwoArrays\obj\Debug\net8.0\ref\27. IntersectionOfTwoArrays.dll

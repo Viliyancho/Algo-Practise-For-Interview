@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\bin\Debug\net8.0\23. CountVowels.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\bin\Debug\net8.0\23. CountVowels.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\bin\Debug\net8.0\23. CountVowels.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\bin\Debug\net8.0\23. CountVowels.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\bin\Debug\net8.0\23. CountVowels.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\refint\23. CountVowels.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\23. CountVowels.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\23. CountVowels\obj\Debug\net8.0\ref\23. CountVowels.dll

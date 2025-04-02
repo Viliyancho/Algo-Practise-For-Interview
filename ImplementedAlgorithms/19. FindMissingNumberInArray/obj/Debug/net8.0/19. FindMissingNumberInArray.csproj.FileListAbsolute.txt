@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\bin\Debug\net8.0\19. FindMissingNumberInArray.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\bin\Debug\net8.0\19. FindMissingNumberInArray.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\bin\Debug\net8.0\19. FindMissingNumberInArray.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\bin\Debug\net8.0\19. FindMissingNumberInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\bin\Debug\net8.0\19. FindMissingNumberInArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\refint\19. FindMissingNumberInArray.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\19. FindMissingNumberInArray.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\19. FindMissingNumberInArray\obj\Debug\net8.0\ref\19. FindMissingNumberInArray.dll
