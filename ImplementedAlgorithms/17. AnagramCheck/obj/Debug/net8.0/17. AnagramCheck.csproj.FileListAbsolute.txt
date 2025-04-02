@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\bin\Debug\net8.0\17. AnagramCheck.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\bin\Debug\net8.0\17. AnagramCheck.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\bin\Debug\net8.0\17. AnagramCheck.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\bin\Debug\net8.0\17. AnagramCheck.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\bin\Debug\net8.0\17. AnagramCheck.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\refint\17. AnagramCheck.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\17. AnagramCheck.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\17. AnagramCheck\obj\Debug\net8.0\ref\17. AnagramCheck.dll

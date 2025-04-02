@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\bin\Debug\net8.0\12. SelectionSort.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\bin\Debug\net8.0\12. SelectionSort.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\bin\Debug\net8.0\12. SelectionSort.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\bin\Debug\net8.0\12. SelectionSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\bin\Debug\net8.0\12. SelectionSort.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\refint\12. SelectionSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\12. SelectionSort.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\12. SelectionSort\obj\Debug\net8.0\ref\12. SelectionSort.dll

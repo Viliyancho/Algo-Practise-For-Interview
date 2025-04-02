@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\bin\Debug\net8.0\10. BinarySearch.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\bin\Debug\net8.0\10. BinarySearch.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\bin\Debug\net8.0\10. BinarySearch.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\bin\Debug\net8.0\10. BinarySearch.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\bin\Debug\net8.0\10. BinarySearch.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\refint\10. BinarySearch.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\10. BinarySearch.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\10. BinarySearch\obj\Debug\net8.0\ref\10. BinarySearch.dll

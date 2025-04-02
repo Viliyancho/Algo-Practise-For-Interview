@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\bin\Debug\net8.0\11. BubbleSort.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\bin\Debug\net8.0\11. BubbleSort.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\bin\Debug\net8.0\11. BubbleSort.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\bin\Debug\net8.0\11. BubbleSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\bin\Debug\net8.0\11. BubbleSort.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\refint\11. BubbleSort.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\11. BubbleSort.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\11. BubbleSort\obj\Debug\net8.0\ref\11. BubbleSort.dll

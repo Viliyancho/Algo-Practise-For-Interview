@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\bin\Debug\net8.0\15. FirstNonRepeatingChar.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\bin\Debug\net8.0\15. FirstNonRepeatingChar.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\bin\Debug\net8.0\15. FirstNonRepeatingChar.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\bin\Debug\net8.0\15. FirstNonRepeatingChar.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\bin\Debug\net8.0\15. FirstNonRepeatingChar.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\refint\15. FirstNonRepeatingChar.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\15. FirstNonRepeatingChar.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\15. FirstNonRepeatingChar\obj\Debug\net8.0\ref\15. FirstNonRepeatingChar.dll
