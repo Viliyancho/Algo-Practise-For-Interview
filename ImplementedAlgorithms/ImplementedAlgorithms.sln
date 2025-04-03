@@ -37,29 +37,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. DuplicatesInArray", "16
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17. AnagramCheck", "17. AnagramCheck\17. AnagramCheck.csproj", "{9B08A41A-434E-4630-9216-860A026A7170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. RotateAnArray", "18. RotateAnArray\18. RotateAnArray.csproj", "{4ED939FA-2F32-4E20-A31F-998D2B740A7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18. RotateAnArray", "18. RotateAnArray\18. RotateAnArray.csproj", "{4ED939FA-2F32-4E20-A31F-998D2B740A7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. FindMissingNumberInArray", "19. FindMissingNumberInArray\19. FindMissingNumberInArray.csproj", "{5EA3A769-D6B7-4F6E-8DD5-E4BD9EC0F27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. FindMissingNumberInArray", "19. FindMissingNumberInArray\19. FindMissingNumberInArray.csproj", "{5EA3A769-D6B7-4F6E-8DD5-E4BD9EC0F27C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. BalancedParentheses", "20. BalancedParentheses\20. BalancedParentheses.csproj", "{102513A2-BF3D-4514-B870-2EBD534D79EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. BalancedParentheses", "20. BalancedParentheses\20. BalancedParentheses.csproj", "{102513A2-BF3D-4514-B870-2EBD534D79EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. LongestCommonPrefix", "21. LongestCommonPrefix\21. LongestCommonPrefix.csproj", "{744FF99E-30F2-4C9E-AFE5-3B5B0983C67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. LongestCommonPrefix", "21. LongestCommonPrefix\21. LongestCommonPrefix.csproj", "{744FF99E-30F2-4C9E-AFE5-3B5B0983C67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. MostFrequentEllementInArray", "22. MostFrequentEllementInArray\22. MostFrequentEllementInArray.csproj", "{0D9A4AED-EE81-448D-8EA1-0393FCCA971D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. MostFrequentEllementInArray", "22. MostFrequentEllementInArray\22. MostFrequentEllementInArray.csproj", "{0D9A4AED-EE81-448D-8EA1-0393FCCA971D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. CountVowels", "23. CountVowels\23. CountVowels.csproj", "{B272EF1D-E4DA-4181-85F0-922BCFEF3B44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. CountVowels", "23. CountVowels\23. CountVowels.csproj", "{B272EF1D-E4DA-4181-85F0-922BCFEF3B44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. SecondLargestNumber", "24. SecondLargestNumber\24. SecondLargestNumber.csproj", "{005A7D1F-7CA1-4C87-AD3D-E3A427122480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. SecondLargestNumber", "24. SecondLargestNumber\24. SecondLargestNumber.csproj", "{005A7D1F-7CA1-4C87-AD3D-E3A427122480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. RemoveDuplicatesFromArray", "25. RemoveDuplicatesFromArray\25. RemoveDuplicatesFromArray.csproj", "{8C992C3B-3CF8-4052-ACAC-70CDD807F277}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. RemoveDuplicatesFromArray", "25. RemoveDuplicatesFromArray\25. RemoveDuplicatesFromArray.csproj", "{8C992C3B-3CF8-4052-ACAC-70CDD807F277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. SumOfDigitsInNumber", "26. SumOfDigitsInNumber\26. SumOfDigitsInNumber.csproj", "{1DB7348A-6B3C-4050-BE53-686485F8DB9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. SumOfDigitsInNumber", "26. SumOfDigitsInNumber\26. SumOfDigitsInNumber.csproj", "{1DB7348A-6B3C-4050-BE53-686485F8DB9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. IntersectionOfTwoArrays", "27. IntersectionOfTwoArrays\27. IntersectionOfTwoArrays.csproj", "{3D9302C6-FAC3-4E3B-BFAC-BC99D8BC68B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. IntersectionOfTwoArrays", "27. IntersectionOfTwoArrays\27. IntersectionOfTwoArrays.csproj", "{3D9302C6-FAC3-4E3B-BFAC-BC99D8BC68B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. LongestWordInSentence", "28. LongestWordInSentence\28. LongestWordInSentence.csproj", "{F01BBBE5-CC85-4EDA-BFC5-E29B9A46F414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. LongestWordInSentence", "28. LongestWordInSentence\28. LongestWordInSentence.csproj", "{F01BBBE5-CC85-4EDA-BFC5-E29B9A46F414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. CheckNumbersAsPowerOfTwo", "29. CheckNumbersAsPowerOfTwo\29. CheckNumbersAsPowerOfTwo.csproj", "{1D94D20B-D51E-4179-9515-31E7AF31F208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29. CheckNumbersAsPowerOfTwo", "29. CheckNumbersAsPowerOfTwo\29. CheckNumbersAsPowerOfTwo.csproj", "{1D94D20B-D51E-4179-9515-31E7AF31F208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. MoveZerosToEnd", "30. MoveZerosToEnd\30. MoveZerosToEnd.csproj", "{EE35DDA2-26E2-4BBE-B09D-AA997B3C2D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. FindTheMajorityElement", "31. FindTheMajorityElement\31. FindTheMajorityElement.csproj", "{51E25BEE-5C1C-4971-92DE-A691B83245DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{1D94D20B-D51E-4179-9515-31E7AF31F208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D94D20B-D51E-4179-9515-31E7AF31F208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D94D20B-D51E-4179-9515-31E7AF31F208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE35DDA2-26E2-4BBE-B09D-AA997B3C2D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE35DDA2-26E2-4BBE-B09D-AA997B3C2D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE35DDA2-26E2-4BBE-B09D-AA997B3C2D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE35DDA2-26E2-4BBE-B09D-AA997B3C2D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E25BEE-5C1C-4971-92DE-A691B83245DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E25BEE-5C1C-4971-92DE-A691B83245DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E25BEE-5C1C-4971-92DE-A691B83245DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E25BEE-5C1C-4971-92DE-A691B83245DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

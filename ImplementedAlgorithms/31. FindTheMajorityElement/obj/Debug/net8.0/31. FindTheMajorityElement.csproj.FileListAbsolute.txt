@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\bin\Debug\net8.0\31. FindTheMajorityElement.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\bin\Debug\net8.0\31. FindTheMajorityElement.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\bin\Debug\net8.0\31. FindTheMajorityElement.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\bin\Debug\net8.0\31. FindTheMajorityElement.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\bin\Debug\net8.0\31. FindTheMajorityElement.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\refint\31. FindTheMajorityElement.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\31. FindTheMajorityElement.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\31. FindTheMajorityElement\obj\Debug\net8.0\ref\31. FindTheMajorityElement.dll

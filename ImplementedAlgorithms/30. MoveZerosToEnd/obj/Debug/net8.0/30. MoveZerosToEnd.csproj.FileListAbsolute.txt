@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\bin\Debug\net8.0\30. MoveZerosToEnd.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\bin\Debug\net8.0\30. MoveZerosToEnd.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\bin\Debug\net8.0\30. MoveZerosToEnd.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\bin\Debug\net8.0\30. MoveZerosToEnd.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\bin\Debug\net8.0\30. MoveZerosToEnd.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\refint\30. MoveZerosToEnd.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\30. MoveZerosToEnd.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\30. MoveZerosToEnd\obj\Debug\net8.0\ref\30. MoveZerosToEnd.dll

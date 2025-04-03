@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\bin\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\bin\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\bin\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\bin\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\bin\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\refint\29. CheckNumbersAsPowerOfTwo.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\29. CheckNumbersAsPowerOfTwo.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\29. CheckNumbersAsPowerOfTwo\obj\Debug\net8.0\ref\29. CheckNumbersAsPowerOfTwo.dll
