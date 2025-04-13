@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "32. CinemaBooking/1.0.0": {
+        "runtime": {
+          "32. CinemaBooking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "32. CinemaBooking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

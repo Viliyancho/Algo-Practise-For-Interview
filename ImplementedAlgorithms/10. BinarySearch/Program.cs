@@ -20,7 +20,7 @@ static int FindBinarySearchIndex(int[] arr, int number)
 
     while(left <= right)
     {
-        mid = left + (right - left) / 2;
+        mid = (left + right) / 2;
         if (arr[mid] == number)
         {
             return mid;

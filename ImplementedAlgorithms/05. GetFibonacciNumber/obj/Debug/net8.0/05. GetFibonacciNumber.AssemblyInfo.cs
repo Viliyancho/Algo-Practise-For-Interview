@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. GetFibonacciNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe992e6363a5ce0cd175e7960d54006f4ec728d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0f2a089738b8ed8a38b12c9f67477c61a49763")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. GetFibonacciNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. GetFibonacciNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

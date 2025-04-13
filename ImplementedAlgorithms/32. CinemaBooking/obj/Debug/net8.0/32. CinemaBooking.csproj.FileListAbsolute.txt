@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\bin\Debug\net8.0\32. CinemaBooking.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\bin\Debug\net8.0\32. CinemaBooking.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\bin\Debug\net8.0\32. CinemaBooking.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\bin\Debug\net8.0\32. CinemaBooking.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\bin\Debug\net8.0\32. CinemaBooking.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\refint\32. CinemaBooking.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\32. CinemaBooking.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\32. CinemaBooking\obj\Debug\net8.0\ref\32. CinemaBooking.dll
