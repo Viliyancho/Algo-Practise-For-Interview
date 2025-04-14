@@ -65,9 +65,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30. MoveZerosToEnd", "30. M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. FindTheMajorityElement", "31. FindTheMajorityElement\31. FindTheMajorityElement.csproj", "{51E25BEE-5C1C-4971-92DE-A691B83245DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32. CinemaBooking", "32. CinemaBooking\32. CinemaBooking.csproj", "{B5F97ADE-BDD4-47C1-8DCB-606077B7F966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. CinemaBooking", "32. CinemaBooking\32. CinemaBooking.csproj", "{B5F97ADE-BDD4-47C1-8DCB-606077B7F966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. BookLogicWithCRUD", "33. BookLogicWithCRUD\33. BookLogicWithCRUD.csproj", "{910CA5C1-BAA1-4647-BE28-8B3636D5D4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33. BookLogicWithCRUD", "33. BookLogicWithCRUD\33. BookLogicWithCRUD.csproj", "{910CA5C1-BAA1-4647-BE28-8B3636D5D4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. FilesOfClientOrders", "34. FilesOfClientOrders\34. FilesOfClientOrders.csproj", "{30E46236-BAFB-4375-97CE-98CBFBD03183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. RestApiWithEfCore", "35. RestApiWithEfCore\35. RestApiWithEfCore.csproj", "{83808A33-BF14-4EBD-AF68-7270F8A28F3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{910CA5C1-BAA1-4647-BE28-8B3636D5D4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{910CA5C1-BAA1-4647-BE28-8B3636D5D4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{910CA5C1-BAA1-4647-BE28-8B3636D5D4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E46236-BAFB-4375-97CE-98CBFBD03183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E46236-BAFB-4375-97CE-98CBFBD03183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E46236-BAFB-4375-97CE-98CBFBD03183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E46236-BAFB-4375-97CE-98CBFBD03183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83808A33-BF14-4EBD-AF68-7270F8A28F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83808A33-BF14-4EBD-AF68-7270F8A28F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83808A33-BF14-4EBD-AF68-7270F8A28F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83808A33-BF14-4EBD-AF68-7270F8A28F3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("22. MostFrequentEllementInArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0f2a089738b8ed8a38b12c9f67477c61a49763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2adc69c92a2a30727e54a10489ea2632b1eed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("22. MostFrequentEllementInArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("22. MostFrequentEllementInArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

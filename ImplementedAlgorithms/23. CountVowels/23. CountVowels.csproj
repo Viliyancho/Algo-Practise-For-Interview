@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\22. MostFrequentEllementInArray\22. MostFrequentEllementInArray.csproj" />
+  </ItemGroup>
+
 </Project>

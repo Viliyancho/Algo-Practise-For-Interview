@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\bin\Debug\net8.0\34. FilesOfClientOrders.exe
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\bin\Debug\net8.0\34. FilesOfClientOrders.deps.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\bin\Debug\net8.0\34. FilesOfClientOrders.runtimeconfig.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\bin\Debug\net8.0\34. FilesOfClientOrders.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\bin\Debug\net8.0\34. FilesOfClientOrders.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.AssemblyInfo.cs
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.sourcelink.json
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\refint\34. FilesOfClientOrders.dll
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.pdb
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\34. FilesOfClientOrders.genruntimeconfig.cache
+C:\Users\Admin\Documents\TU - SOFIA\Algo-Practise-For-Interview\ImplementedAlgorithms\34. FilesOfClientOrders\obj\Debug\net8.0\ref\34. FilesOfClientOrders.dll

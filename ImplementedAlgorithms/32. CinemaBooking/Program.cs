@@ -19,9 +19,10 @@ public class Cinema
 {
     private List<Seat> seats;
 
-    public Cinema(int rows, int numbersPerRow, List<Seat> initialSeats)
+    public Cinema(int rows, int numbersPerRow/*, List<Seat> initialSeats*/)
     {
-        seats = initialSeats; //dependency injection
+        seats = new List<Seat>();
+        //seats = initialSeats; //dependency injection
         for (int i = 1; i <= rows; i++)
         {
             for(int j = 1; j <= numbersPerRow; j++)

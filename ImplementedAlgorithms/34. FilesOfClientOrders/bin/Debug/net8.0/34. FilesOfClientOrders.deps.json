@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "34. FilesOfClientOrders/1.0.0": {
+        "runtime": {
+          "34. FilesOfClientOrders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34. FilesOfClientOrders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

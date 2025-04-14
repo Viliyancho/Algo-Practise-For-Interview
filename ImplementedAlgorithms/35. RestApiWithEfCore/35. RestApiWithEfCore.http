@@ -1,0 +1,6 @@
+@_35._RestApiWithEfCore_HostAddress = http://localhost:5276
+
+GET {{_35._RestApiWithEfCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
